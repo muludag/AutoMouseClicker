@@ -1,2 +1,2 @@
 # AutoMouseClicker
-Auto clicker on selected coordinate by random delay
+Auto mouse click clicks on a selected coordinate using a random delay if needed by the user
